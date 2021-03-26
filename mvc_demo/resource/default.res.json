@@ -1,0 +1,29 @@
+{
+	"groups": [
+		{
+			"keys": "common",
+			"name": "common"
+		},
+		{
+			"keys": "login",
+			"name": "login"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "fui/login.zip",
+			"type": "bin",
+			"name": "login"
+		},
+		{
+			"url": "fui/common.zip",
+			"type": "bin",
+			"name": "common"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tzh1gxwy">
+  <resources>
+    <component id="ca7l0" name="loginView.xml" path="/" exported="true"/>
+    <component id="vxeu1" name="btn_style_1.xml" path="/sub/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
